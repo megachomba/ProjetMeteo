@@ -1,0 +1,17 @@
+.meteoComp{
+    width: 250px;
+    height: 150px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin:10px;
+    border-radius: 8px;
+}
+.firstLine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
